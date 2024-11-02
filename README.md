@@ -42,7 +42,10 @@ To run the application, follow these steps:
 
 3. **Locate the Script**: Navigate to the directory where the `citizens_financial.py` file is located.
 
-4. **Run the Script**: Open a command prompt or terminal window in that directory and execute the script by typing `python banking_system.py`.
+4. **Run the Script**: Open a command prompt or terminal window in that directory and execute the script by typing
+```bash
+python citizens_financial.py
+```
 
 ## Usage
 
